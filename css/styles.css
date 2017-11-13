@@ -37,3 +37,8 @@ body {
 .navbar-inverse {
     background-color: #512DA8;
 }
+
+/*added this to widen the space between radio buttons on the reservation form*/
+.form-check > * {
+    margin:0px 10px !important;
+}
